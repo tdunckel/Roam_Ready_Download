@@ -23,3 +23,13 @@ During sign-up, RoamReady asks how you like to travel:
 - **Logistics Lead** — smooth routing, reliable lodging, and less friction
 
 That choice shapes what the app suggests. You can still plan any kind of trip.
+
+## 📥 Download
+Click the button below to download the latest production APK file:
+
+[![Download APK](https://shields.io)]([YOUR_DIRECT_DOWNLOAD_LINK_HERE](https://github.com/tdunckel/Roam_Ready_Download/releases/download/v0.1.0/roamready.apk))
+
+### Installation Instructions
+1. Download the APK file above.
+2. Open the file on your Android device.
+3. If prompted, enable "Install from Unknown Sources" in your browser or file manager settings.
