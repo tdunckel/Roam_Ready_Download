@@ -2,7 +2,7 @@
 
 RoamReady is a travel planner that keeps the practical parts of a trip next to the places you actually want to go. Plan flights, hotels, and the day’s stops in one itinerary, then get suggestions that fit how you like to travel and whether you have a car.
 
-The product is a web app and an [Android app](https://github.com/tdunckel/RoamReady_Android). Both use the same account and the same trips.
+The product is a web app and an Android app. Both use the same account and the same trips.
 
 ## What you can do
 
